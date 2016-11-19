@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Uses Base Spring Boot Configuration -->
+<configuration>
+    <include resource="org/springframework/boot/logging/logback/base.xml"/>
+
+    <logger name="jeffaschenk.orientdb" level="DEBUG"/>
+    <logger name="org.springframework" level="INFO"/>
+    <logger name="com.orientechnologies.orient.core.level" level="FINEST"/>
+
+</configuration>
