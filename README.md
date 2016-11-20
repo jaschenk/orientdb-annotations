@@ -47,9 +47,16 @@ Orient NoSql Database.
   * Specify the Name of the DB you wish to be created during the execution of the Test.
   * Now run the Test:
   ** In your IDE run src/test/java/jeffaschenk/orientdb/Test
-  ** On Command Line Simple, mvn clean package
-  * Now using the OrientDB IDE, you can view the updated Schema for your Database.
+  ** On Command Line Simply issue:
+     ```
+       mvn clean package
+     ```  
+  * Now using the OrientDB IDE, you can view the updated Schema for your Database which were applied based upon the Annotated Entity Classes.
 
+#### Examples
+Currently see src/test/java/jeffaschenk/example/model.
+
+#### OrientDB Releases
 I would recommend the following in using OrientDB:
 * Stay as current as possible, as Orient is always making enhancements and providing necessary fixes.  
 * Use the latest version 2.2.13+, as it has great enhancements and fixes past than previous 1.x or 2.1 versions.
