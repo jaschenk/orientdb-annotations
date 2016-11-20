@@ -46,8 +46,8 @@ Orient NoSql Database.
     if you changed the password to something other than '__orientdb__'.
   * Specify the Name of the DB you wish to be created during the execution of the Test.
   * Now run the Test:
-  ** In your IDE run src/test/java/jeffaschenk/orientdb/Test
-  ** On Command Line Simply issue:
+   ** In your IDE run src/test/java/jeffaschenk/orientdb/Test
+   ** On Command Line Simply issue:
      ```
        mvn clean package
      ```  
