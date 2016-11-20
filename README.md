@@ -55,7 +55,12 @@ Orient NoSql Database.
   
   * See [here][2] for a sample log output of the schema enforcer bootstrap.
   
-  * See ![Schema of new DB Prior to Example Test][Schema_Prior]
+#### Schema of DB after initial DB Creation
+![Schema of new DB Prior to Example Test][Schema_Prior]
+
+#### Schema of DB after Test Example run
+![Schema of DB after Test Example applied Page 1][Schema_Update_1]
+![Schema of DB after Test Example applied Page 2][Schema_Update_2]
 
 
 #### Examples
@@ -73,5 +78,5 @@ I would recommend the following in using OrientDB:
 [1]:http://orientdb.com/download/
 [2]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/sample_Test_output.txt
 [Schema_Prior]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_initial_schema.png
-[Schema_Update_1]:
-[Schema_Update_2]:
+[Schema_Update_1]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_schema_update_p1.png
+[Schema_Update_2]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_schema_pdate_p2.png
