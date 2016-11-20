@@ -64,7 +64,7 @@ Orient NoSql Database.
 
 
 #### Examples
-Currently see src/test/java/jeffaschenk/examples/model/entities/ for data model entities annotated to enforce schemata for OrientDB Database instance.
+Currently see [src/test/java/jeffaschenk/examples/model/entities/][Example_Model] for data model entities annotated to enforce schemata for OrientDB Database instance.
 
 
 #### OrientDB Releases
@@ -80,3 +80,5 @@ I would recommend the following in using OrientDB:
 [Schema_Prior]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_initial_schema.png
 [Schema_Update_1]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_schema_update_p1.png
 [Schema_Update_2]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_schema_pdate_p2.png
+[Example_Model]:https://github.com/jaschenk/orientdb-annotations/tree/master/src/test/java/jeffaschenk/examples/model/entities
+
