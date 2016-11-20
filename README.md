@@ -65,3 +65,4 @@ I would recommend the following in using OrientDB:
 
 
 [1]:http://orientdb.com/download/
+[2]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/sample_Test_output.txt
