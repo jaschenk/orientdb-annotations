@@ -54,7 +54,7 @@ Orient NoSql Database.
   * Now using the OrientDB IDE, you can view the updated Schema for your Database which were applied based upon the Annotated Entity Classes.
 
 #### Examples
-Currently see src/test/java/jeffaschenk/example/model.
+Currently see src/test/java/jeffaschenk/examples/model/entities/ for data model entities annotated to enforce schemata for OrientDB Database instance.
 
 #### OrientDB Releases
 I would recommend the following in using OrientDB:
