@@ -52,9 +52,13 @@ Orient NoSql Database.
        mvn clean package
      ```  
   * Now using the OrientDB IDE, you can view the updated Schema for your Database which were applied based upon the Annotated Entity Classes.
+  
+  * See [here][2] for a sample log output of the schema enforcer bootstrap.
+
 
 #### Examples
 Currently see src/test/java/jeffaschenk/examples/model/entities/ for data model entities annotated to enforce schemata for OrientDB Database instance.
+
 
 #### OrientDB Releases
 I would recommend the following in using OrientDB:
