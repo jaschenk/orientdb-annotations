@@ -54,6 +54,8 @@ Orient NoSql Database.
   * Now using the OrientDB IDE, you can view the updated Schema for your Database which were applied based upon the Annotated Entity Classes.
   
   * See [here][2] for a sample log output of the schema enforcer bootstrap.
+  
+  * See ![Schema of new DB Prior to Example Test][Schema_Prior]
 
 
 #### Examples
@@ -70,3 +72,4 @@ I would recommend the following in using OrientDB:
 
 [1]:http://orientdb.com/download/
 [2]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/sample_Test_output.txt
+[Schema_Prior]
