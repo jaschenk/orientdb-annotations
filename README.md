@@ -72,4 +72,6 @@ I would recommend the following in using OrientDB:
 
 [1]:http://orientdb.com/download/
 [2]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/sample_Test_output.txt
-[Schema_Prior]
+[Schema_Prior]:https://github.com/jaschenk/orientdb-annotations/blob/master/doc/orientdb_initial_schema.png
+[Schema_Update_1]:
+[Schema_Update_2]:
